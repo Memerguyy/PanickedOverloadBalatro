@@ -1,0 +1,13 @@
+{
+    "id": "POverload",
+    "name": "Panicked Overload",
+    "author": ["memerr"],
+    "description": "Lets you highlight an additional card on your last hand",
+    "prefix": "pnckovrld",
+    "main_file": "PanickedOverload.lua",
+    "badge_colour": "D7188A",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
